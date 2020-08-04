@@ -1,2 +1,2 @@
 # PSD-TEMPLATE
-Адаптивный шаблон html/css
+Адаптивный шаблон html/css.
